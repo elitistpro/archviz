@@ -73,4 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/QuantumCharacter/Textures/Body/T_Body_N.uasset
 Content/ArchVizExplorer/Meshes/SM_Roads_01.uasset
